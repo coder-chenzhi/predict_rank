@@ -1,0 +1,3 @@
+If you intend to use R to benefit from its friendliness for data mining. I recommend you to use RStudio. 
+It provides community version with most functions, which is enough for us.
+After you've installed the RStudio, remember to config the default CRAN mirror in "Tools - Global Options - Packages". When you install new packages, R will download packages from the CRAN mirror. 
